@@ -21,11 +21,7 @@ This application instantly shares the content shared on your Telegram channel to
   discord_webhook_url = 'DISCORD_WEBHOOK_URL'
 ```
 
-#### 3️⃣ Install the library.
-```bash
-  pip install requests
-```
-#### 4️⃣ Create virtual environment.
+#### 3️⃣ Create virtual environment.
 Navigate to the directory where you want to create the virtual environment.
 
 Windows:
@@ -37,6 +33,11 @@ Mac and Linux:
 ```bash
   python3 -m venv myenv
   source myenv/bin/activate
+```
+
+#### 4️⃣ Install the library.
+```bash
+  pip install requests
 ```
 #### 5️⃣ Run the project.
 ```bash
